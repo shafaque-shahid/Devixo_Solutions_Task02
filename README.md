@@ -77,13 +77,7 @@ Based on these results, **Linear Regression is the recommended final model** for
 
 ## Visualizations
 
-The notebook includes or can include the following visualizations:
-
 - R² score comparison
-- Correlation heatmap
-- Feature distribution histograms
-- Actual vs. predicted values
-- Residual plot
 - Error metric comparison across all five models
 
 ## Tools and Libraries
