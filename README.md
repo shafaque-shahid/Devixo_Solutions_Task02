@@ -1,4 +1,4 @@
-# Student Performance Prediction: Machine Learning Model Comparison
+# Machine Learning Model Comparison
 
 ## Project Overview
 
